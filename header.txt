@@ -1,3 +1,4 @@
 Hello world!
-New changes!!!
+Change for <first>
+Text from master - New changes!!!
 
